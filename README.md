@@ -21,6 +21,6 @@
 > Tensorflow
 <img src="tensorflow.png/">
 
-* Santosh Thapa 2020
+* ShyamStha 2020
 
 
